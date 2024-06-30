@@ -1,0 +1,72 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 190px;
+    background-color: #7cbff5;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.avatar {
+    padding-right: 20px;
+}
+
+.img1 {
+    border-radius: 50%;
+}
+
+.contact {
+    height: 170px;
+    background-color: #99edc3;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding-left: 90px;
+    margin-bottom: 20px;
+    padding-top: 1px;
+}
+
+.blue {
+    color: #4285f4;
+}
+
+.skills {
+    height: 170px;
+    background-color: #99edc3;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding-left: 90px;
+    margin-bottom: 2px;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.navik {
+    color: #4285f4;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+
+.skills1 {
+    font-size: 13px;
+    margin-top: -30px;
+    margin-left: 23px;
+}
+
+.recommendations {
+    height: 170px;
+    background-color: #99edc3;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding-left: 90px;
+}
